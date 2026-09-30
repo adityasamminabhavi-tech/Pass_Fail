@@ -1,3 +1,4 @@
+print("Check the student is pass or fail")
 x=int(input("The marks:"))
 if(x>40):
     print("The student is pass")
